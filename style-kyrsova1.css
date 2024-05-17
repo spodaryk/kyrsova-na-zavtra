@@ -1,0 +1,17 @@
+body{
+	  background: #bcbff4;
+}
+.song{
+	   text-decoration: none;
+	   background: #6971f1;
+	   color: white;
+}
+.song:hover{
+	background: white;
+	color: #6971f1;
+}
+@media all and (orientation: portrait)
+    and (min-width: 601px)
+    and (max-width: 1099px)
+	      body { background: #A1CDFF;
+		  }

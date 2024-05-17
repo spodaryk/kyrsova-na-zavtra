@@ -1,0 +1,36 @@
+body{
+	  background: #bcbff4;
+}
+
+.infa{
+	   font-size: 20px;
+}
+.wiki{
+	   text-decoration: none;
+	   background: #6971f1;
+	   color: white;
+}
+.wiki:hover{
+	background: white;
+	color: #6971f1;
+}
+.gidle-song{
+	   text-decoration: none;
+	   background: #6971f1;
+	   color: white;
+}
+.gidle-song:hover{
+	background: white;
+	color: #6971f1;
+}
+.fandom{
+	font-size: 20px;
+}
+@media screen 
+    and (min-width: 601px)
+    and (max-width: 1099px)
+    .gidle-song{
+	             text-decoration: none;
+	             background: #6971f1;
+	             color: white;
+    }
